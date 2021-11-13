@@ -5,6 +5,7 @@ import java.util.Date;
 public class Book {
 	
 	private int isbn;
+	private int date;
 	
 	private String title;
 	
